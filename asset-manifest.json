@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nasa-Astronomy/static/css/main.1e523613.css",
+    "main.js": "/Nasa-Astronomy/static/js/main.d17019f5.js",
+    "static/js/453.e4ba40e6.chunk.js": "/Nasa-Astronomy/static/js/453.e4ba40e6.chunk.js",
+    "index.html": "/Nasa-Astronomy/index.html",
+    "main.1e523613.css.map": "/Nasa-Astronomy/static/css/main.1e523613.css.map",
+    "main.d17019f5.js.map": "/Nasa-Astronomy/static/js/main.d17019f5.js.map",
+    "453.e4ba40e6.chunk.js.map": "/Nasa-Astronomy/static/js/453.e4ba40e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e523613.css",
+    "static/js/main.d17019f5.js"
+  ]
+}
